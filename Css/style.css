@@ -1,0 +1,25 @@
+body{
+    font-family: 'Lato', sans-serif, !important;
+
+}
+.dropdown:hover>.dropdown-menu{
+    
+    display: block;
+}
+/* .clr{
+    color: #87e5da!important;
+
+} */
+.bg9{
+    /* background: rgba(145, 204, 238, 0.9); */
+    background:  #f1e4f8fb
+}
+.lists li{
+    font-size: 22px
+}
+.fabs{
+    font-size: 35px
+}
+.on{
+    color: #87e5da!important;
+}
