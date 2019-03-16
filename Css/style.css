@@ -6,6 +6,9 @@ body{
     
     display: block;
 }
+.navbar{
+opacity:0.9;
+}
 /* .clr{
     color: #87e5da!important;
 
