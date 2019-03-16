@@ -30,3 +30,19 @@ opacity:0.9;
 .navbar{
     border-bottom: red 3px solid
 }
+#home-section{
+    background: url(/Images/appetizer-breakfast-cuisine-326278.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 700px;
+    background-size: cover;
+}
+#home-section .dark-overlay{
+    position: absolute;
+    top: 0; 
+    left:0;
+    width: 100%;
+    min-height: 700px;
+    background: rgba(0,0,0,0.6);
+
+}
